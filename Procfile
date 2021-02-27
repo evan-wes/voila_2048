@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser evan2048.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True evan2048.ipynb
